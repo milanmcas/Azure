@@ -1,0 +1,5 @@
+C:\Users\mgcli\Milan\Azure\Module5\Starter\obj\Docker\publish\ipcheck.exe
+C:\Users\mgcli\Milan\Azure\Module5\Starter\obj\Docker\publish\ipcheck.dll
+C:\Users\mgcli\Milan\Azure\Module5\Starter\obj\Docker\publish\ipcheck.deps.json
+C:\Users\mgcli\Milan\Azure\Module5\Starter\obj\Docker\publish\ipcheck.runtimeconfig.json
+C:\Users\mgcli\Milan\Azure\Module5\Starter\obj\Docker\publish\ipcheck.pdb

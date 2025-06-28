@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dF+xKrMSutc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgcli\\Milan\\Azure\\Module4_Cosmos\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgcli\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

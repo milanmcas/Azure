@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ipcheck": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

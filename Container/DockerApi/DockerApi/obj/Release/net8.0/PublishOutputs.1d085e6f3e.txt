@@ -1,0 +1,12 @@
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\DockerApi.exe
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\appsettings.Development.json
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\appsettings.json
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\DockerApi.dll
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\DockerApi.deps.json
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\DockerApi.runtimeconfig.json
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\DockerApi.pdb
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mgcli\Milan\Azure\Container\DockerApi\DockerApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

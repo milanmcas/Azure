@@ -1,0 +1,11 @@
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.deps.json
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\bin\Debug\net8.0\AdventureWorks.Models.pdb
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.AssemblyInfoInputs.cache
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.AssemblyInfo.cs
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.csproj.CoreCompileInputs.cache
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\refint\AdventureWorks.Models.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\AdventureWorks.Models.pdb
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Models\obj\Debug\net8.0\ref\AdventureWorks.Models.dll

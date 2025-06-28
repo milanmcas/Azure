@@ -1,0 +1,17 @@
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\AdventureWorks.Context.deps.json
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\AdventureWorks.Context.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\AdventureWorks.Context.pdb
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\AdventureWorks.Models.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\bin\Debug\net8.0\AdventureWorks.Models.pdb
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.csproj.AssemblyReference.cache
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.AssemblyInfoInputs.cache
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.AssemblyInfo.cs
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.csproj.CoreCompileInputs.cache
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\Adventur.BE472602.Up2Date
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\refint\AdventureWorks.Context.dll
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\AdventureWorks.Context.pdb
+C:\Users\mgcli\Milan\Azure\Module4_Cosmos\AdventureWorks\AdventureWorks.Context\obj\Debug\net8.0\ref\AdventureWorks.Context.dll
