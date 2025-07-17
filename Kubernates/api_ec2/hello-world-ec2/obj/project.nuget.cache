@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHzkrMc0cMk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgcli\\Milan\\Azure\\Kubernates\\api_ec2\\hello-world-ec2\\hello-world-ec2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgcli\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.18\\microsoft.netcore.app.runtime.linux-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\mgcli\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\mgcli\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.18\\microsoft.netcore.app.host.linux-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
