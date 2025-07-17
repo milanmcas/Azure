@@ -7,7 +7,7 @@
     <RootNamespace>hello_world_ec2</RootNamespace>
   </PropertyGroup>
   <PropertyGroup>
-    <ContainerImageName>products-crud-api</ContainerImageName>
+    <ContainerRepository>products-crud-api</ContainerRepository>
     <ContainerImageTags>latest</ContainerImageTags>
     <PublishProfile>DefaultContainer</PublishProfile>
     <RuntimeIdentifier>linux-x64</RuntimeIdentifier>

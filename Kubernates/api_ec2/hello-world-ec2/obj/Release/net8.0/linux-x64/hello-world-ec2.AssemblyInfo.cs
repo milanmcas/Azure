@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hello-world-ec2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f235609ed7b9f178e7f14b48f973e0b66bec315")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23f750459670a3773e58973941654c9154c114d")]
 [assembly: System.Reflection.AssemblyProductAttribute("hello-world-ec2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hello-world-ec2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
