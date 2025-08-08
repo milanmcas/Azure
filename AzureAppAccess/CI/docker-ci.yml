@@ -55,6 +55,6 @@ stages:
         azureSubscription: $(azureServiceConnection)
         azureContainerRegistry: $(acrLoginServer)
         action: 'Push an image'
-        imageName: eshoponweb/web:$(Build.BuildId)
+        imageName: milan/web:$(Build.BuildId)
         includeLatestTag: true
     
