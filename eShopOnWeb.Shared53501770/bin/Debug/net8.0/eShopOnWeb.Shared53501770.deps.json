@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eShopOnWeb.Shared53501770/1.0.0": {
+        "runtime": {
+          "eShopOnWeb.Shared53501770.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eShopOnWeb.Shared53501770/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

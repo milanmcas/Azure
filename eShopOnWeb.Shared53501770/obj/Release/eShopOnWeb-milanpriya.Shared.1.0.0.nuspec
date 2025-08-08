@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>eShopOnWeb-milanpriya.Shared</id>
+    <version>1.0.0</version>
+    <authors>eShopOnWeb.Shared53501770</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="56bb11584be3079b8986ec74b33aee6a8a20fba6" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mgcli\Milan\Azure\eShopOnWeb.Shared53501770\bin\Release\net8.0\eShopOnWeb.Shared53501770.dll" target="lib\net8.0\eShopOnWeb.Shared53501770.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+Configuration NewConfig
+{
+     Node 'localhost'
+    {
+        # Install IIS features
+        WindowsFeature WebServerRole {
+            Name   = "Web-Server"
+            Ensure = "Present"
+        }
+    }
+}

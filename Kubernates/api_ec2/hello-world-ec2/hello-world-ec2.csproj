@@ -12,5 +12,8 @@
     <PublishProfile>DefaultContainer</PublishProfile>
     <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.EC2" Version="4.0.20" />
+  </ItemGroup>
 
 </Project>

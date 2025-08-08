@@ -8,8 +8,30 @@
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/linux-x64": {
       "hello-world-ec2/1.0.0": {
+        "dependencies": {
+          "AWSSDK.EC2": "4.0.20"
+        },
         "runtime": {
           "hello-world-ec2.dll": {}
+        }
+      },
+      "AWSSDK.Core/4.0.0.16": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.16"
+          }
+        }
+      },
+      "AWSSDK.EC2/4.0.20": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.0.16"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.EC2.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.20.0"
+          }
         }
       }
     }
@@ -19,6 +41,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/4.0.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GJlhEqljTAIB2nedgSggHgwKazx15A7cQylv1tpkG1DKwiT/YJ/1zxiG/UMSRIJI7EdKgbCz917UpDjw9qUwPw==",
+      "path": "awssdk.core/4.0.0.16",
+      "hashPath": "awssdk.core.4.0.0.16.nupkg.sha512"
+    },
+    "AWSSDK.EC2/4.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+D1uiRvgb0LkKadHnXjYYqrv88zoICnoHktKRf/e17ph2we/+fLb6lZyi7I9z7wfMFT7UYeM5cTO1hq+k3Tf7w==",
+      "path": "awssdk.ec2/4.0.20",
+      "hashPath": "awssdk.ec2.4.0.20.nupkg.sha512"
     }
   }
 }
