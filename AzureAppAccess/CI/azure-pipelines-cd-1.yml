@@ -1,0 +1,39 @@
+trigger:
+- main
+pool:
+vmImage: ubuntu-latest
+
+variables:
+ buildConfiguration: "Release"
+ appName: 'gamestore03'
+
+steps:
+
+- task: AzureCLI@2
+  displayName: ACR Login
+  inputs:
+    azureSubscription: 'My Subscription'
+    scriptType: 'pscore'
+    scriptLocation: 'inlineScript'
+    inlineScript: 'az acr login --name $(appName)'
+
+
+- task: DotNetCoreCLI@2
+  displayName: Publish Docker image
+  inputs:
+    command: 'publish'    
+    projects: 'GameStore.Api/GameStore.Api.csproj'
+    arguments: '-p ContainerRegistry=$(appName).azurecr.io 
+                -p ContainerImageTag=$(Build.BuildId) 
+                /t:PublishContainer'
+    publishWebProjects: false
+    zipAfterPublish: false
+    nobuild: true
+
+- task: AzureContainerApps@1
+  displayName: Deploy
+  inputs:
+    azureSubscription: 'My Subscription'
+    imageToDeploy: '$(appName).azurecr.io/gamestore-api:$(Build.BuildId)'
+    containerAppName: '$(appName)'
+    resourceGroup: '$(appName)'

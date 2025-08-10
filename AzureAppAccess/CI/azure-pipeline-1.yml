@@ -1,0 +1,22 @@
+trigger:
+- main
+pool:
+vmImage: ubuntu-latest
+
+variables:
+ buildConfiguration: "Release"
+
+steps:
+
+- task: UseDotNet@2
+  displayName: Use .NET 8 SDK
+  inputs:
+    packageType: 'sdk'
+    version: '8.x'
+
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: 'build'
+    projects: 'AzureAppAccess.sln'    
+    arguments: '--configuration $(buildConfiguration)'
