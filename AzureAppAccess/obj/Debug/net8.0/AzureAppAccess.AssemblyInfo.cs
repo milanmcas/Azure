@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAppAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7b795b50a1c48edba15710d25b47862399edcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3ff10918077aef811fac2c72a8db26958e6624")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAppAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAppAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

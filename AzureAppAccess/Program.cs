@@ -14,15 +14,15 @@ namespace AzureAppAccess
             const string ConnectionString = "Endpoint=https://appcs-53504475.azconfig.io;Id=1ltf;Secret=1XxAyOyl8Q1RVfttxOOVgimzHOygl1UhLOzIVCIRssOX8SK8r2DDJQQJ99BHAC8vTIndyv2KAAACAZACThAx";
             
             builder.Services.Configure<MyConfig>(builder.Configuration.GetSection("MyNiceConfig"));
-            builder.Configuration.AddAzureAppConfiguration(options =>
-            {
-                options.Connect(ConnectionString).ConfigureRefresh((refreshOptions) =>
-                {
-                    // indicates that all configuration should be refreshed when the given key has changed.
-                    refreshOptions.Register(key: "MyNiceConfig:PageSize", refreshAll: true).SetCacheExpiration(TimeSpan.FromSeconds(10));
-                    //refreshOptions.SetCacheExpiration(TimeSpan.FromSeconds(5));
-                }).UseFeatureFlags();
-            });
+            //builder.Configuration.AddAzureAppConfiguration(options =>
+            //{
+            //    options.Connect(ConnectionString).ConfigureRefresh((refreshOptions) =>
+            //    {
+            //        // indicates that all configuration should be refreshed when the given key has changed.
+            //        refreshOptions.Register(key: "MyNiceConfig:PageSize", refreshAll: true).SetCacheExpiration(TimeSpan.FromSeconds(10));
+            //        //refreshOptions.SetCacheExpiration(TimeSpan.FromSeconds(5));
+            //    }).UseFeatureFlags();
+            //});
             builder.Services.AddAzureAppConfiguration();
             builder.Services.AddFeatureManagement();
             builder.Services.AddControllers();
@@ -43,7 +43,7 @@ namespace AzureAppAccess
 
             app.UseAuthorization();
             // Enable automatic configuration refresh from Azure App Configuration
-            app.UseAzureAppConfiguration();
+            //app.UseAzureAppConfiguration();
 
             app.MapControllers();
 
